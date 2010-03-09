@@ -14,6 +14,7 @@ These following plugins are installed by default, you'll just need to activate t
 if you need them:
 
 * [All-in-One SEO Pack](http://wordpress.org/extend/plugins/all-in-one-seo-pack/)
+* [WP Super Cache](http://wordpress.org/extend/plugins/wp-super-cache/)
 * [Contact Form 7](http://wordpress.org/extend/plugins/contact-form-7/)
 * [WPtouch iPhone Theme](http://wordpress.org/extend/plugins/wptouch/)
 * [Google XML Sitemaps](http://wordpress.org/extend/plugins/google-sitemap-generator/)
@@ -32,7 +33,7 @@ To keep track of the translation:
 
 ## Todo
 
-* More themes by default, it could include new themes each months from [Smashing Magazine](www.smashingmagazine.com)
+* More themes by default, it could include new themes each months from [Smashing Magazine](http://www.smashingmagazine.com)
 * Wordpress-Mu flavored installation
 * Specific use-cases using git branched: ecommerce, portfolio, static page, ...
 
