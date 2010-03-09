@@ -21,6 +21,7 @@ if you need them.
 * [WP-PageNavi](http://wordpress.org/extend/plugins/wp-pagenavi/)
 * [e-Commerce](http://getshopped.org/)
 * [NextGEN Gallery](http://wordpress.org/extend/plugins/nextgen-gallery/)
+* [Polyglot](http://fredfred.net/skriker/index.php/polyglot/)
 
 ## Languages
 
