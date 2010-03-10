@@ -9,8 +9,11 @@ Commands for standard installation:
 
 ``
 git clone git://github.com/alx/SimplePress.git simplepress
+
 cd simplepress
+
 cp wp-config-sample.php wp-config.php
+
 nano wp-config.php
 ``
 
