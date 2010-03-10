@@ -7,15 +7,10 @@ I've made this flavored-install that covers most of my needs.
 
 Commands for standard installation:
 
-``
-git clone git://github.com/alx/SimplePress.git simplepress
-
-cd simplepress
-
-cp wp-config-sample.php wp-config.php
-
-nano wp-config.php
-``
+	git clone git://github.com/alx/SimplePress.git simplepress
+	cd simplepress
+	cp wp-config-sample.php wp-config.php
+	nano wp-config.php
 
 * Please refer to Wordpress manual to install normally the system
 * Activate the plugin you need from the Plugin Administation Panel
